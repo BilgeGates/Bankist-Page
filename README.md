@@ -27,4 +27,3 @@ npm run dev</p>
 <h2>🍿 Demo </h2>
 <p> - Check out our live demo at https://bankist-demo-page.netlify.app/ </p>
 
->>>>>>> cf313e4bc5d49d0b8720aaeb4d59e59da4f01673
