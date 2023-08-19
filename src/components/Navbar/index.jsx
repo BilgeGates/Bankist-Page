@@ -33,10 +33,18 @@ const Navbar = () => {
 
     closeBtn.addEventListener("click", closeNav);
 
-    return () => {
-      menuBtn.removeEventListener("click", openNav);
-      closeBtn.removeEventListener("click", closeNav);
-    };
+    const navItems = menu.querySelectorAll("a");
+
+    if (window.innerWidth < 768) {
+      navItems.forEach((item) => {
+        item.addEventListener("click", closeNav);
+      });
+
+      return () => {
+        menuBtn.removeEventListener("click", openNav);
+        closeBtn.removeEventListener("click", closeNav);
+      };
+    }
   }, []);
 
   useEffect(() => {
