@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <h1 align="center">Bankist</h1>
 <p>The "Bankist" project is a web application that aims to provide a modern banking experience. There is a "Testimonials" section on the site where users share their experiences. In addition, there is the "Operations" section, which describes the operational processes of the bank, and the "Features" section, which details the features offered. There is also an "Account Opening" section that makes opening new accounts quick and easy. The project has been developed using React so users can have a more interactive and user-friendly experience.</p>
 <hr />
