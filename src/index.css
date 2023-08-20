@@ -79,9 +79,7 @@ section > p {
 
 h1,
 h2,
-h3,
-h4,
-h5 {
+h4 {
   line-height: 1.2;
 }
 
@@ -91,10 +89,6 @@ h1 {
 
 h2 {
   font-size: 2rem;
-}
-
-h3 {
-  font-size: 1.6rem;
 }
 
 h4 {
@@ -142,10 +136,6 @@ img {
 
   h2 {
     font-size: 1.7rem;
-  }
-
-  h3 {
-    font-size: 1.4rem;
   }
 
   h4 {
