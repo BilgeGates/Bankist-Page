@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./index.css";
 
 const JoinBank = () => {
@@ -8,9 +9,9 @@ const JoinBank = () => {
           The best day to join Bankist was one year ago. The second best is
           today!
         </h1>
-        <a href="#" className="btn">
+        <Link to="/register" className="btn join__bank-link">
           Open your free account today!
-        </a>
+        </Link>
       </div>
     </section>
   );

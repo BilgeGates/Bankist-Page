@@ -18,19 +18,19 @@ section#joinBank {
     font-size: 1.4rem;
   }
 
-  .join__bank-container a {
+  .join__bank-container .join__bank-link {
     font-size: 0.8rem;
     position: relative;
   }
 }
 
 @media screen and (max-width: 314px) {
-  .join__bank-container a {
+  .join__bank-container .join__bank-link {
     font-size: 0;
     width: 170px;
   }
 
-  .join__bank-container a::before {
+  .join__bank-container .join__bank-link::before {
     content: "Open account";
     position: absolute;
     font-size: 0.7rem;
