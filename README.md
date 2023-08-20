@@ -21,7 +21,7 @@
 <h3>Step 2: Run the Website
 </h3>
 <p>Open your code editor (such as VS Code) and navigate to the project directory. Then, open a terminal and run the following command:
-npm run dev</p>
+pnpm run dev</p>
 <p>This will start the application. Open a web browser and navigate to http://localhost:5173 to access the website.</p>
 <hr />
 <h2>🍿 Demo </h2>
