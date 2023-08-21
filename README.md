@@ -11,6 +11,7 @@
 <h2>🍿 Technologies </h2>
 <ul>
    <li>ReactJs</li>
+   <li>CSS</li>
    <li>SwiperJs</li>
 </ul>
 <hr />
@@ -22,7 +23,11 @@
 </h3>
 <p>Open your code editor (such as VS Code) and navigate to the project directory. Then, open a terminal and run the following command:
 pnpm run dev</p>
-<p>This will start the application. Open a web browser and navigate to http://localhost:5173 to access the website.</p>
+<p>This will start the application. Open a web browser and navigate to <a href="http://localhost:5173">http://localhost:5173</a> to access the website.</p>  
+  
+```bash
+    pnpm run dev
+ ```
 <hr />
 <h2>🍿 Demo </h2>
 <p> - Check out our live demo at https://bankist-demo-page.netlify.app/ </p>
